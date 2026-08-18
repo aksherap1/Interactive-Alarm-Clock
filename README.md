@@ -8,18 +8,6 @@ An expressive 6-DOF robotic alarm clock designed in Onshape, engineered for rapi
 
 ---
 
-## Table of Contents
-- [Overview & Emotional States](#overview--emotional-states)
-- [Kinematics & Motion (6-DOF)](#kinematics--motion-6-dof)
-- [Design for Manufacturing & Assembly (DFM / DFA)](#design-for-manufacturing--assembly-dfm--dfa)
-- [Electronics & Custom 2-Layer PCB](#electronics--custom-2-layer-pcb)
-- [Engineering Calculations & Validation](#engineering-calculations--validation)
-- [GD&T & Manufacturing Tolerances](#gdt--manufacturing-tolerances)
-- [Product Launch Roadmap](#product-launch-roadmap)
-- [Future Upgrades](#future-upgrades)
-
----
-
 ## Overview & Emotional States
 
 The robot uses physical gestures and lighting to communicate status before audio triggers:

@@ -1,5 +1,8 @@
 # Interactive Robotic Alarm Clock
 
+<img width="568" height="579" alt="Screenshot 2026-08-17 at 5 17 38 PM" src="https://github.com/user-attachments/assets/95f4bc26-9cca-40cb-80bf-57e447e5a552" />
+
+
 An expressive 6-DOF robotic alarm clock designed in Onshape, engineered for rapid FDM/SLA prototyping, and powered by an ESP32-S3 custom PCB. The character wakes users up using biomimetic kinematic motion and personality states prior to audio alarms.
 
 **CAD Model:** [View Onshape 3D Assembly](https://cad.onshape.com) *(Insert Onshape Public Link)*  
